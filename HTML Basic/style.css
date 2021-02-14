@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(165, 164, 157);
+} 
+h1{
+    background-color: green;
+     color: red;
+}
+h2{
+    background-color: red;
+     color: green;
+}
+.A,.B{
+    background-color: gold;
+    color: black;
+    display: inline-block;
+}
+button a{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
